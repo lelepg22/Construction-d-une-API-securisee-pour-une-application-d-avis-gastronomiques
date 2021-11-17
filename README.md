@@ -9,7 +9,7 @@ npm install on this folder
 
 npm install on frontend folder,
 
-npm start on frontend folder folder
+npm start on frontend folder.
 
 
 
