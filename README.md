@@ -10,3 +10,9 @@ npm install on this folder
 npm install on frontend folder,
 
 npm start on frontend folder.
+
+Objectifs du Projet
+
+1. Implémenter un modèle logique de données conformément à la réglementation
+2. Mettre en œuvre des opérations CRUD de manière sécurisée
+3. Stocker des données de manière sécurisée
